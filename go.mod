@@ -47,7 +47,7 @@ require (
 	github.com/uptrace/opentelemetry-go-extra/otellogrus v0.1.12
 	github.com/xdg-go/scram v1.1.0
 	gopkg.in/segmentio/analytics-go.v3 v3.1.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 )
 
 require (
